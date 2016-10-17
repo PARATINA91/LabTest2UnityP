@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D24BF7C2-C9DE-585B-C50A-128C6F582F2F}") = "Museum standard assets 4.6", "Assembly-CSharp.csproj", "{2C3D92D8-B3B3-5149-334B-40D4D2EEDB91}"
+EndProject
+Project("{D24BF7C2-C9DE-585B-C50A-128C6F582F2F}") = "Museum standard assets 4.6", "Assembly-CSharp-Editor.csproj", "{404E701C-35E4-5941-B7E2-C6806D5F6766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3D92D8-B3B3-5149-334B-40D4D2EEDB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3D92D8-B3B3-5149-334B-40D4D2EEDB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3D92D8-B3B3-5149-334B-40D4D2EEDB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3D92D8-B3B3-5149-334B-40D4D2EEDB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404E701C-35E4-5941-B7E2-C6806D5F6766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404E701C-35E4-5941-B7E2-C6806D5F6766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404E701C-35E4-5941-B7E2-C6806D5F6766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404E701C-35E4-5941-B7E2-C6806D5F6766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
